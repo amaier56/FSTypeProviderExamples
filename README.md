@@ -28,6 +28,8 @@
 
 #### CSV Type Provider
 
+See Sample by [F# Data](http://fsharp.github.io/FSharp.Data/library/CsvProvider.html)
+
     Date,Open,High,Low,Close,Volume,Adj Close
     2012-01-27,29.45,29.53,29.17,29.23,44187700,29.23
     2012-01-26,29.61,29.70,29.40,29.50,49102800,29.50
@@ -135,6 +137,8 @@ See sample by [Evelina Gabasova](http://evelinag.com/blog/2015/12-03-using-ggplo
 
 ### HelloWorldTypeProvider
 
+See sample by [Microsoft](https://msdn.microsoft.com/de-de/library/hh361034.aspx) 
+
     // See https://msdn.microsoft.com/de-de/library/hh361034.aspx
     // This type defines the type provider. When compiled to a DLL, it can be referenced
     [<TypeProvider>]
@@ -183,6 +187,7 @@ Anyway, there is a brief note "Providing Generated Types" in the MSDN tutorial, 
 
 ### Further links
 
-- Little intro [F# for Data](http://de.slideshare.net/sergeytihon/f-for-data) presentation from [Sergey Tihon](http://de.slideshare.net/sergeytihon)
+- Little intro [F# for Data](http://de.slideshare.net/sergeytihon/f-for-data) presentation from [Sergey Tihon](http://de.slideshare.net/sergeytiho)
+- [F# Data Library](http://fsharp.github.io/FSharp.Data/)
 - [Create your own Type Provider](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwjxwaGPmYrMAhVE7A4KHfxPBycQFggkMAE&url=https%3A%2F%2Fmsdn.microsoft.com%2Fde-de%2Flibrary%2Fhh361034.aspx&usg=AFQjCNG4a0CeiimQU9Wn_fUs7L9DwGiz6g&cad=rja)
 - [F# Type Provider Starter Pack](https://github.com/fsprojects/FSharp.TypeProviders.StarterPack)
