@@ -5,10 +5,6 @@
 
 ***
 
-### One main task in our day job is to read and process data
-
-***
-
 ### How is the general way to do that?
 
 1. <b>Write code or use an existing lib to access the data source (e.g. a database (sql or nosql), file, web site, REST service, ...)</b>
@@ -29,8 +25,6 @@
 - A type provider can also ensure that groups of types are only expanded on demand. This allows on-demand integration of large-scale information spaces in a strongly typed way.
 
 ***
-
-### FSharp Type Providers in action
 
 #### CSV Type Provider
 
@@ -125,10 +119,6 @@ See sample by [Evelina Gabasova](http://evelinag.com/blog/2015/12-03-using-ggplo
 - [Azure Storage Type Provider](https://github.com/fsprojects/AzureStorageTypeProvider)
 - [WSDL Type Provider](https://msdn.microsoft.com/en-US/library/hh362328.aspx)
 - [WorldBank Type Provider](http://fsharp.github.io/FSharp.Data/library/WorldBank.html)
-
-***
-
-### DEMO
 
 ***
 
