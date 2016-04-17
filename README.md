@@ -1,11 +1,3 @@
-- title : F# Type Provider
-- description : Short Introduction to F# Type Provider
-- author : Andreas Maier
-- theme : night
-- transition : default
-
-***
-
 ### Lets type the world
 
 - Type providers offer you a way of working with data in highly information rich, strong typed manner with a few lines of code
